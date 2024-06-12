@@ -1,4 +1,4 @@
-package com.example.rest.client.demo;
+package com.example.rest.client.demo.user;
 
 public record Address(
         String street,
